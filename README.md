@@ -8,8 +8,7 @@ Prathamesh Kothawade:
 [LinkedIn](https://www.linkedin.com/in/prathamesh-kothawade-a9951322b/) |
 [GitHub](https://github.com/Prathamesh-28)
 
-<img src="https://contrib.rocks/image?repo=salesp07/MyMind" />
-
+## Milestones
 Milestone 1: Login / Logout - 100% Completed\
 Milestone 2: Patient, Therapist, and Admin user types - 100% Completed\
 Milestone 3: Admin Dashboard - 100% Completed\
