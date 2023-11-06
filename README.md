@@ -4,21 +4,9 @@
 <img src="https://raw.githubusercontent.com/salesp07/salesp07.github.io/master/public/mymind-responsive.png" alt="MyMind screenshot"/>
 
 ## Contributors
-Towa Quimbayo:
-[LinkedIn](https://www.linkedin.com/in/towa-quimbayo/) |
-[GitHub](https://github.com/towaquimbayo)
-
-Kian Azizkhani
-[LinkedIn](https://www.linkedin.com/in/kian-azizkhani/) |
-[GitHub](https://github.com/KianAzizkhani)
-
-Pedro Sales-Muniz
-[LinkedIn](https://www.linkedin.com/in/pedro-sales-muniz/) |
-[GitHub](https://github.com/salesp07)
-
-Alex Gibbison
-[LinkedIn](https://www.linkedin.com/in/alexander-gibbison-786683153/) |
-[GitHub](https://github.com/Soultey )
+Prathamesh Kothawade:
+[LinkedIn](https://www.linkedin.com/in/prathamesh-kothawade-a9951322b/) |
+[GitHub](https://github.com/Prathamesh-28)
 
 <img src="https://contrib.rocks/image?repo=salesp07/MyMind" />
 
