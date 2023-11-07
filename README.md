@@ -16,15 +16,14 @@ Milestone 4: Shopping Cart Component - 100% Completed\
 Milestone 5: Online Chat - 100% Completed
 
 ## One sentence pitch
-Our team BBY31\
-is developing MyMind which is a web application\
+MyMind which is a web application\
 to help people struggling with mental health problems\
 to provide professional help from our therapist specialist that can help improve their mental health\
 with guided therapy sessions.
 
 ## Technologies used
 Frontend - HTML, CSS\
-Backend - Node.js, JavaScript, jQuery, Ajax,  MongoDB Altlas,  Git, Heroku 
+Backend - Node.js, JavaScript, jQuery, Ajax,  MongoDB Altlas,  Git
 Node.js Modules - Nodemon, Express.js, Express-session, Path, Mongoose, Multer, Http, Socket.io, Nodemailer, Bcrypt
 
 ## How to Run the project
@@ -99,7 +98,4 @@ Node.js Modules - Nodemon, Express.js, Express-session, Path, Mongoose, Multer, 
 2. Click 'Sign up' on the navbar
 3. Type 'batman' in the username field
 4. Get ***mindblown***
-
-## How to contribute
-Pull requests are welcome. Please divide your PRs in 3 sections: `Problem`, `Solution`, `Testing`.
 
