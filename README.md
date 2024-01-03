@@ -7,8 +7,9 @@
 Prathamesh Kothawade:
 [LinkedIn](https://www.linkedin.com/in/prathamesh-kothawade-a9951322b/) |
 [GitHub](https://github.com/Prathamesh-28)
+
 Anaya Gore: \
-Atharva Gadhave: \
+Atharva Gadhave: 
 
 ## Milestones
 Milestone 1: Login / Logout  \
