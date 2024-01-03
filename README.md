@@ -7,13 +7,18 @@
 Prathamesh Kothawade:
 [LinkedIn](https://www.linkedin.com/in/prathamesh-kothawade-a9951322b/) |
 [GitHub](https://github.com/Prathamesh-28)
+Anaya Gore:
+Atharva Gadhave:
 
 ## Milestones
-Milestone 1: Login / Logout - 100% Completed\
-Milestone 2: Patient, Therapist, and Admin user types - 100% Completed\
-Milestone 3: Admin Dashboard - 100% Completed\
-Milestone 4: Shopping Cart Component - 100% Completed\
-Milestone 5: Online Chat - 100% Completed
+Milestone 1: Login / Logout  \
+Milestone 2: Patient, Therapist, and Admin user types  \
+Milestone 3: Admin Dashboard  \
+Milestone 4: Shopping Cart Component  \
+Milestone 5: Payment Integration  \
+Milestone 6: PDF Generation(Reciept)  \
+Milestone 7: User Profile(Form)  \
+Milestone 8: Online Chat  \
 
 ## One sentence pitch
 MyMind which is a web application\
@@ -91,11 +96,3 @@ Node.js Modules - Nodemon, Express.js, Express-session, Path, Mongoose, Multer, 
 7. Add a profile picture
 8. Click 'Save'
 9. Refresh and see that your information was changed on the DB
-
-
-### Easter Egg
-1. Click 'Login' on the navbar
-2. Click 'Sign up' on the navbar
-3. Type 'batman' in the username field
-4. Get ***mindblown***
-
