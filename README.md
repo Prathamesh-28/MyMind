@@ -30,7 +30,7 @@ with guided therapy sessions.
 ## Technologies used
 Frontend - HTML, CSS\
 Backend - Node.js, JavaScript, jQuery, Ajax,  MongoDB Altlas,  Git
-Node.js Modules - Nodemon, Express.js, Express-session, Path, Mongoose, Multer, Http, Socket.io, Nodemailer, Bcrypt
+Node.js Modules - Nodemon, Express.js, Express-session, Path, Mongoose, Multer, Http, Socket.io
 
 ## How to Run the project
 
