@@ -1,7 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.MyMind">
 
 # MyMind - (Mental Health Software)
-<img src="https://raw.githubusercontent.com/salesp07/salesp07.github.io/master/public/mymind-responsive.png" alt="MyMind screenshot"/>
 
 ## Contributors
 Prathamesh Kothawade:
